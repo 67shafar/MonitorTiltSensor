@@ -1,0 +1,1 @@
+start pythonw c:\services\MonitorTiltSensor\PollTiltSensor.py %* >> c:\services\log.txt
